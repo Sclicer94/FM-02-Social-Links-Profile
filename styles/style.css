@@ -17,12 +17,12 @@ html, body {
 #pic {
     border-radius: 100%;
     overflow: hidden;
-    height: 8rem;
+    height: 5rem;
     aspect-ratio: 1/1;
 }
 
 img {
-    height: 8rem;
+    height: 5rem;
 }
 
 body {
@@ -35,12 +35,12 @@ body {
 
 main {
     background-color: hsl(0, 0%, 12%);
-    width: 28rem;
+    width: 20rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem 1rem;
+    padding: 1rem;
     height: auto;
     border-radius: 1rem;
 }
@@ -70,8 +70,8 @@ li {
     font-weight: 600;
     background-color: hsl(0, 0%, 20%);
     border-radius: 0.5rem;
-    padding: 1rem 0;
-    margin: 1rem 0;
+    padding: 0.5rem 0;
+    margin: 0.5rem 0;
     width: 100%;
     transition: all 600ms ;
 }
